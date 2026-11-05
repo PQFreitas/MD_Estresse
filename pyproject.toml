@@ -29,6 +29,7 @@ dependencies = [
     "python-dotenv",
     "ruff",
     "scikit-learn",
+    "scipy>=1.15.3",
     "tqdm",
     "typer",
 ]
